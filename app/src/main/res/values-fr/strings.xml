@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">language</string>
+    <string name="bottom1">printemps</string>
+    <string name="bottom2">été</string>
+    <string name="bottom3">automne</string>
+    <string name="bottom4">hiver</string>
+</resources>
